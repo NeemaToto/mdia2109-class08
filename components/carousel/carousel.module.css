@@ -1,0 +1,8 @@
+.carouselContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-style: solid;
+    border-color: var(--coffee);
+    border-radius: 6px;
+}
